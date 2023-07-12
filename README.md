@@ -10,17 +10,12 @@ I am committed to continuous growth and staying updated with the latest industry
 
 If you're searching for a determined professional who excels in team environments, I invite you to reach out. Let's connect and explore how we can achieve remarkable outcomes together.
 My last three projects:
-  <ul>
-  <li><a href="https://github.com/purvinsg/RickMortyv1"”>Rick and Morty</a>: I developed a captivating website that allows users to effortlessly browse characters, locations, and episodes from the popular TV show, Rick and Morty. The website seamlessly integrates with an API and offers a convenient character filter functionality, enabling users to easily find specific characters of interest.
-
-The website's architecture adheres to the Model-View-Controller (MVC) pattern, ensuring a well-structured and maintainable codebase. Leveraging the power of routing, users can navigate through different sections of the website with ease. To enhance performance and optimize data retrieval, I implemented a robust cache system, enabling faster and more efficient access to the content.
-
-For the presentation layer, I utilized Twig as the template engine, allowing for dynamic and customizable rendering of the website's components. Additionally, Tailwind was employed for styling, providing a sleek and visually appealing user interface.
-
-By undertaking this project, I gained valuable experience in API integration, implementing MVC architecture, developing efficient routing systems, and leveraging cache mechanisms. The utilization of Twig and Tailwind underscores my commitment to delivering a user-friendly and aesthetically pleasing browsing experience for Rick and Morty enthusiasts.  </li>
-  <li><a href="https://github.com/purvinsg/NewsFeed">News Site</a>: In this project, I created a dynamic News Feed webpage by harnessing the power of the JSONPlaceholder API and integrating a placeholder image service. The webpage was meticulously designed following the Model-View-Controller (MVC) architecture, ensuring an organized structure and efficient data management. To enhance performance, I implemented cache systems, services, and repositories.
-To provide a seamless user experience, I developed a console application that allows users to easily filter articles and users. This console application also serves as a testing platform, enabling comprehensive testing procedures to ensure the reliability and functionality of the application.
-By undertaking this project, I gained invaluable hands-on experience in API integration, proficiently manipulating data, and constructing dynamic webpages. The successful implementation of the MVC architecture, coupled with robust testing capabilities, attests to my dedication in creating well-structured, maintainable, and thoroughly tested applications. </li>
+<ul>
+  <li><a href="https://github.com/purvinsg/CryptoBank_v2">Simple Bank & Crypto Exchange Page</a>: I developed an engaging website that simulates a bank and crypto exchange, allowing users to effortlessly create accounts, make money transfers, and buy crypto assets.
+The website is built using the Laravel framework, with the backend powered by PHP and the frontend utilizing Vue.js. Data is securely stored in a MySQL database, and the page incorporates two-factor authentication (2FA) for enhanced security. </li>
+  
+  <li><a href="https://github.com/purvinsg/RickMortyv1">Rick and Morty Website</a>: I created a website for browsing characters, locations, and episodes from the TV show, Rick and Morty. The site integrates with an API, offers a character filter, and follows the MVC architecture. It utilizes Twig for rendering and Tailwind for styling, providing an immersive user experience.</li>
+<li><a href="https://github.com/purvinsg/NewsFeed">News Site</a>: I developed a dynamic News Feed webpage using the JSONPlaceholder API and implemented cache systems for improved performance. The project adheres to the MVC architecture and includes a console application for filtering articles and users, ensuring a seamless user experience.</li>
   </ul>
 
 <h3 align="left">Connect with me:</h3>
